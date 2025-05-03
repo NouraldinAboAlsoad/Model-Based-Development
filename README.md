@@ -9,3 +9,5 @@ This repository serves as:
 * Resource hub for tools, templates, and best practices.
 * Collaborative space for MBD enthusiasts to share knowledge.
 
+Notion Link for Follow up
+https://www.notion.so/Model-Based-Design-Course-1e869e31c78c8076b855d7f6a08bd50b?pvs=4
