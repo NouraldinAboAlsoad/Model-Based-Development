@@ -39,6 +39,7 @@ Part 4: The Sum Block
 
 
 Part 5: The Constant Block
+
       18. Remove the Sum Block.
       19.Drag and drop a Constant Block to the model.
       20.Set the value to 10.
@@ -47,13 +48,11 @@ Part 5: The Constant Block
 
 
 Part 6: The Display Block
+
 23. Remove the Constant Block.
 24.Add a Display Block to the model.
 25.Connect a Constant Block (value: 8) to the Display Block's input.
 26.Run the simulation to observe the displayed result.
 
 
-Part 7: Summary
-27. Save your Simulink model.
-28.Write a brief summary of what you've learned about each block in a text document.
-29.Include any observations or difficulties you encountered during the lab.
+
