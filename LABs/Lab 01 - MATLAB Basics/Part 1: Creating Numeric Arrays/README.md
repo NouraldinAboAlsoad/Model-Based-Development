@@ -1,9 +1,3 @@
-Instructions:
-
-Part 1: Creating Numeric Arrays
-
-Open MATLAB on your computer.
-
 Create a 3x3 matrix named matrixA with the following values:
 1 2 3
 4 5 6
