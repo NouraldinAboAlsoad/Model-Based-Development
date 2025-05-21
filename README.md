@@ -21,8 +21,11 @@ This repository serves as:
 
 
 ### Labs
-1. **[Lab 1 ]** - MATLAB concepts
-2. **[Lab 2 Name]** - Key learning objectives
+1. **[Lab 1 ]** - Lab 01- MATLAB concepts
+2. **[Lab 2 ]** - Lab 02 - MATLAB Numeric Types and Array Manipulation
+3. **[Lab 3 ]** - Lab 03 - Introduction to MATLAB Basics for Beginners
+4. **[Lab 4 ]** - Lab 04 - MATLAB Control Structures - While and Switch
+5. **[Lab 5 ]** - Lab 05 - Understanding MATLAB Function Concepts
 
 ## 🚀 How to Use This Repository
 - Each project/lab folder contains:
@@ -32,4 +35,4 @@ This repository serves as:
 
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/nouraldin-aboalsoad/
-- Email: nouraldinaboalsoad@gmail.com
+- Email: nouraldin@millenniumtechnologieseg.com
