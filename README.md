@@ -20,13 +20,13 @@ This repository serves as:
 
 
 ### Labs
-1.**[MATLAB ] - Lab 01- MATLAB concepts
-2.**[MATLAB] - Lab 02 - MATLAB Numeric Types and Array Manipulation
-3.**[MATLAB] - Lab 03 - Introduction to MATLAB Basics for Beginners
-4.**[MATLAB] - Lab 04 - MATLAB Control Structures - While and Switch
-5.**[MATLAB] - Lab 05 - Understanding MATLAB Function Concepts
-6.**[Simulink] - Lab 06 - Understanding Basic Simulink Blocks
-7.**[Simulink] - Lab 07 - Introduction to Simulink
+1.**[MATLAB]** - Lab 01- MATLAB concepts
+2.**[MATLAB]** - Lab 02 - MATLAB Numeric Types and Array Manipulation.
+3.**[MATLAB]** - Lab 03 - Introduction to MATLAB Basics for Beginners.
+4.**[MATLAB]** - Lab 04 - MATLAB Control Structures - While and Switch.
+5.**[MATLAB]** - Lab 05 - Understanding MATLAB Function Concepts.
+6.**[Simulink]** - Lab 06 - Understanding Basic Simulink Blocks.
+7.**[Simulink]** - Lab 07 - Introduction to Simulink.
 
 ## 🚀 How to Use This Repository
 - Each project/lab folder contains:
