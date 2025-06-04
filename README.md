@@ -17,6 +17,11 @@ This repository serves as:
   
 ### Projects
 1. **[Data_Handling_and_Interpolation]** - Reading Voltage and Current data from excel sheet, excute interpolation for a speficed range and plot the interpolated data then save it in txt file
+2. **[MATLAB RoboticArm]** - Project 002 - MATLAB RoboticArm
+3. **[Mass Spring Damper]** - Project 003 - Mass Spring Damper
+4. **[Simple Pendulum Motion Simulation]** - Project 004 - Simple Pendulum Motion Simulation
+5. **[Modeling and simulating a simple RC Circuit]** - Project 005 - Modeling and simulating a simple RC Circuit
+6. **[Temperature Control System with Embedded Code Generation]** - Project 006 - Temperature Control System with Embedded Code Generation using MATLAB & Simulink
 
 
 ### Labs
